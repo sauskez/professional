@@ -3,7 +3,7 @@
  ### Things will be going here.
 
 <h2>Description</h2>
-Likely a capstone project, maybe this <a href="https://discord.gg/9PNrbNRF">discord server</a> will find it's place in the world.
+Information about previous fundraisers and <a href="https://www.cityofferndale.org/public-works-department/parks-and-recreation/">event management</a>
 <br />
 
 
